@@ -142,8 +142,3 @@ The presentation of this README is inspired by [PointTPA](https://github.com/H-E
 
 If you find HiTC useful in your research, please consider giving this repository a star ⭐ and citing our work. Citation details will be provided when the preprint is publicly available.
 
----
-
-<p align="center">
-  Questions about HiTC? Contact <a href="mailto:yangli@hust.edu.cn">Yang Li</a> or <a href="mailto:dkliang@hust.edu.cn">Dingkang Liang</a>.
-</p>
