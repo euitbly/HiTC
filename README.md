@@ -83,7 +83,7 @@ High-resolution representations contain repeated local geometric patterns, while
   <img src="assets/visualization.svg" width="100%" alt="Qualitative comparison of raw point clouds, Sonata, GitMerge3D, and HiTC on ScanNet, ScanNet200, and S3DIS">
 </p>
 
-*Qualitative comparisons on (a) ScanNet, (b) ScanNet200, and (c) S3DIS. HiTC maintains competitive segmentation quality after token compression, including fine-grained regions and adjacent objects with similar appearances.*
+*Qualitative comparisons on ScanNet, ScanNet200, and S3DIS. HiTC maintains competitive segmentation quality after token compression, particularly in fine-grained regions and around adjacent objects with similar appearances.*
 
 ---
 
